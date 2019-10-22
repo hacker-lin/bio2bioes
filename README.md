@@ -7,7 +7,7 @@ You can replace the 'bio' file to your raw bio data
 
 
 Try follow code for test:  
-
+    from bio2bioes import DataDeal
     dd = DataDeal('bio')
     data_list, label_list = dd.reform_data()                    # preprocessing the raw data
     bioes_data_label = dd.dict_or_list(data_list, label_list)   # bio2bioes
