@@ -3,7 +3,7 @@
 First, git clone the src!
 
 You can replace the 'bio' file to your raw bio data
-> Warning: your data format must be adjust as thesame as "my bio file data format"
+> Warning: your data format must be adjust as the same as "my bio file data format"
 
 
 Try follow code for test:  
